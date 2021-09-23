@@ -211,6 +211,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
 h1 {
 margin-bottom: 3rem;
 }
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: black;
+}
 
 .images {
 width: 100%;
